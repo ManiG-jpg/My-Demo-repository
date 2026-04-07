@@ -1,2 +1,2 @@
-# My-Demo-repository
-This is used for learning purpose.
+# My Project
+This repository contains the source code for My Project, a simple application to demonstrate GIT usage. 
